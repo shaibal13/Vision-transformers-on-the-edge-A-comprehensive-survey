@@ -206,19 +206,16 @@ If you find this survey or list useful, please cite:
 
 ```bibtex
 @article{saha2025vision,
-  title   = {Vision Transformers on the Edge: A Comprehensive Survey of Model Compression and Acceleration Strategies},
-  author  = {Saha, Shaibal and Xu, Lanyu},
-  journal = {Neurocomputing},
-  year    = {2025},
-  url     = {https://www.sciencedirect.com/science/article/pii/S0925231225010896},
-  note    = {arXiv:2503.02891}
+  title={Vision transformers on the edge: A comprehensive survey of model compression and acceleration strategies},
+  author={Saha, Shaibal and Xu, Lanyu},
+  journal={Neurocomputing},
+  volume={643},
+  pages={130417},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
 
 ## 🙏 Acknowledgement
 
 This work was partly supported by the U.S. National Science Foundation under Grant CNS-2245729 and the Michigan Space Grant Consortium 80NSSC20M0124.
-
-## 🤝 Contributing
-
-Know a paper on ViT compression or acceleration for edge devices that should be here? Open an issue or pull request with the title, venue, year, and the section it belongs to.
